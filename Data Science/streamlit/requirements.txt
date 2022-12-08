@@ -1,0 +1,3 @@
+streamlit
+pandas
+streamlit-authenticator==0.1.5 
